@@ -1,0 +1,131 @@
+{
+    "general": {
+        "name": "Lee Wonchan",
+        "headline": "Backend Developer & DevOps Engineer",
+        "about": [
+            "Hey there! 👋",
+            "I started coding in elementary school, teaching myself HTML and CSS, and later learned Linux server management and PHP to run web services in middle school.",
+            "Now, I develop and manage various web services using DevOps technologies like JavaScript, React, and Linux clusters, with experience in handling large-scale traffic."
+        ],
+        "socials": {
+            "email": "wonchan@wonchan.net",
+            "Instagram": "https://instagram.com/wonchan.dev/",
+            "github": "https://github.com/"
+        }
+    },
+    "experiences": [
+        {
+            "title": "Upcoin",
+            "company": "암호화폐 모의투자 거래소",
+            "href": "https://www.upcoin.kr/",
+            "startDate": "12/2024",
+            "endDate": "CURRENT",
+            "description": "https://velog.io/@leewonchan/모의가상화폐거래소-개발-회고",
+            "logo": "/logos/upcoin.png",
+            "skills": ["PHP", "WebSocket", "MariaDB"]
+        },
+        {
+            "title": "전남고 LMS",
+            "company": "교내 전자 학생증",
+            "href": "https://lms.jeonnam.school/",
+            "startDate": "03/2024",
+            "endDate": "CURRENT",
+            "description": "https://velog.io/@leewonchan/교내-전자학생증-개발기-2024",
+            "logo": "/logos/lms.png",
+            "skills": ["PHP", "Python", "MariaDB"]
+        },
+        {
+            "title": "Mirror Server",
+            "company": "리눅스 미러서버",
+            "href": "https://mirror.jeonnam.school/",
+            "startDate": "03/2024",
+            "endDate": "CURRENT",
+            "description": "",
+            "logo": "/logos/linux_mirror.png",
+            "skills": ["Linux Cluster", "Rsync", "Nginx"]
+        },
+        {
+            "title": "SearchAI",
+            "company": "AI 검색엔진",
+            "href": "",
+            "startDate": "06/2023",
+            "endDate": "08/2024",
+            "description": "https://velog.io/@leewonchan/AI-검색엔진-개발기",
+            "logo": "/logos/searchai.png",
+            "skills": ["PHP", "Python", "MariaDB"]
+        },
+        {
+            "title": "푸른숲23",
+            "company": "교내 축제 티켓 예매",
+            "href": "",
+            "startDate": "11/2023",
+            "endDate": "12/2023",
+            "description": "https://velog.io/@leewonchan/교내티켓-예매-개발-대규모트래픽대응",
+            "logo": "/logos/festival.png",
+            "skills": ["Huge Traffic Handling", "PHP", "MariaDB"]
+        },
+        {
+            "title": "School IDC",
+            "company": "교내 웹서비스를 위한 서버 구축",
+            "href": "",
+            "startDate": "03/2024",
+            "endDate": "11/2024",
+            "description": "",
+            "logo": "/logos/idc.png",
+            "skills": ["Linux", "Cluster", "Server"]
+        },
+        {
+            "title": "타임캡슐",
+            "company": "온라인 타임캡슐",
+            "href": "",
+            "startDate": "01/2024",
+            "endDate": "04/2024",
+            "description": "https://velog.io/@leewonchan/온라인타임캡슐",
+            "logo": "/logos/timecapsule.png",
+            "skills": ["PHP", "MariaDB"]
+        }
+    ],
+    "education": [
+        {
+            "subject": "Jeonnam High School",
+            "degree": "전남고등학교",
+            "university": "", 
+            "href": "",
+            "startDate": "2022", 
+            "endDate": "NOW", 
+            "description": "Belonging to the Digital Information Department of the Jeonnam High School Student Council, developing and managing various school web services."
+        },
+        {
+            "subject": "Songwon Middle School",
+            "degree": "광주송원중학교",
+            "university": "", 
+            "href": "",
+            "startDate": "2020", 
+            "endDate": "2022", 
+            "description": "Launching the first school web service with dining, scheduling, academic calendar, and community features."
+        },
+        {
+            "subject": "Manho Elementary School",
+            "degree": "만호초등학교",
+            "startDate": "2014", 
+            "endDate": "2019", 
+            "description": "Dive into coding. | Self-Taught HTML, CSS, JS "
+        }
+    ],
+    "projects": [
+        {
+            "name": "Jeonnam_LMS",
+            "framework": "PHP, MariaDB",
+            "description": "This is the source code of Jeonnam High School LMS.",
+            "href": "https://github.com/LeeWonchan4531/Jeonnam_LMS",
+            "stars": "0"
+        },
+       {
+            "name": "Uptime-Kuma-Custom-Status-Page",
+            "framework": "PHP",
+            "description": "Uptime Kuma Custom Status Page is an open-source project based on Uptime Kuma.",
+            "href": "https://github.com/LeeWonchan4531/Uptime-kuma-custom-status-page",
+            "stars": "1"
+       }
+    ]
+}
