@@ -17,7 +17,7 @@ const About = (props) => {
             <div className="bg-surface-400 py-1 px-3 rounded-md text-xs mr-2">Fortinet</div>
             </div>
             <div className="flex flex-row mt-2">
-            <div className="bg-surface-400 py-1 px-3 rounded-md text-xs mr-2">React</div>
+            <div className="bg-surface-400 py-1 px-3 rounded-md text-xs mr-2">Node.js</div>
             <div className="bg-surface-400 py-1 px-3 rounded-md text-xs mr-2">MariaDB</div>
             <div className="bg-surface-400 py-1 px-3 rounded-md text-xs mr-2">Redis</div>
             <div className="bg-surface-400 py-1 px-3 rounded-md text-xs mr-2">Linux Cluster</div>
