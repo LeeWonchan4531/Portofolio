@@ -20,7 +20,7 @@
             "href": "https://www.upcoin.kr/",
             "startDate": "12/2024",
             "endDate": "CURRENT",
-            "description": "https://velog.io/@leewonchan/모의가상화폐거래소-개발-회고",
+            "description": "https://velog.io/@leewonchan/Upcoin%EB%AA%A8%EC%9D%98%ED%88%AC%EC%9E%90%EA%B1%B0%EB%9E%98%EC%86%8C-%EC%8B%A4%EC%8B%9C%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8F%99%EC%8B%9C%EC%84%B1%EB%8B%A4%EB%A3%A8%EA%B8%B0",
             "logo": "/logos/upcoin.png",
             "skills": ["PHP", "WebSocket", "MariaDB"]
         },
